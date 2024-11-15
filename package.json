@@ -10,6 +10,29 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.13"
+    "@astrojs/sitemap": "^3.2.0",
+    "@formkit/icons": "^1.6.7",
+    "@playform/compress": "^0.0.3",
+    "@splidejs/splide": "^4.1.4",
+    "@storyblok/astro": "^4.0.4",
+    "@storyblok/richtext": "^3.0.0",
+    "astro": "^4.16.0",
+    "astro-font": "^0.0.80",
+    "astro-icon": "^1.1.0",
+    "astro-robots": "^2.0.1",
+    "autoprefixer": "^10.4.19",
+    "goron": "^0.1.1",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.14",
+    "postcss": "^8.4.38",
+    "postcss-nested": "^6.0.1",
+    "postcss-preset-env": "^9.5.4",
+    "remixicon": "^4.5.0",
+    "storyblok-js-client": "^6.10.1",
+    "vite": "^5.2.8"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.2.1",
+    "cssnano": "^6.1.2"
   }
 }
